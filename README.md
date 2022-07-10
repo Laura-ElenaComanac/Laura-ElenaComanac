@@ -2,24 +2,26 @@ Hi! :wave:
 
 :zap: Here are my projects:
 
-•	:mortar_board: Bachelor's Thesis in Computer Science: https://github.com/Laura-ElenaOlaru/Licenta
+•	:mortar_board: <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science </a>
 
-•	:bulb: UiPath projects: https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator, https://github.com/Laura-ElenaOlaru/RPA-Projects 
+•	:bulb: <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> UiPath YoutubePlaylistCreator </a> 
 
-•	:coffee: Java projects: https://github.com/Laura-ElenaOlaru/Java-Projects
+• :rocket: <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects </a> 
 
-•	:snake: Python projects: https://github.com/Laura-ElenaOlaru/Python-Projects
+•	:coffee: <a href="https://github.com/Laura-ElenaOlaru/Java-Projects"> Java projects </a>
 
-• :floppy_disk:	C – C++ projects: https://github.com/Laura-ElenaOlaru/C-Cpp-Projects
+•	:snake: <a href="https://github.com/Laura-ElenaOlaru/Python-Projects"> Python projects </a>
 
-•	:cd: C# projects: https://github.com/Laura-ElenaOlaru/C-Sharp-Projects
+• :floppy_disk:	<a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects"> C – C++ projects </a>
 
-•	:books: DB projects: https://github.com/Laura-ElenaOlaru/DB-Projects
+•	:cd: <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# projects </a>
 
-•	:iphone: Mobile apps: https://github.com/Laura-ElenaOlaru/Mobile-Apps
+•	:books: <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects </a>
 
-• :computer:	Web apps: https://github.com/Laura-ElenaOlaru/Web-Projects
+•	:iphone: <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
 
-•	:mailbox_with_mail: Computer Networks projects: https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects
+• :computer: <a href="https://github.com/Laura-ElenaOlaru/Web-Projects">	Web apps </a>
 
-•	:crystal_ball: AI projects: https://github.com/Laura-ElenaOlaru/AI-Projects
+•	:mailbox_with_mail: <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
+
+•	:crystal_ball: <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
