@@ -22,6 +22,10 @@ Hi! :wave:
 
 • :computer: <a href="https://github.com/Laura-ElenaOlaru/Web-Projects">	Web apps </a>
 
+• :dart: <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
+
 •	:mailbox_with_mail: <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
+
+• :bar_chart:  <a href=https://github.com/Laura-ElenaOlaru/ResearchProject> Research project </a>
 
 •	:crystal_ball: <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
