@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi! :wave:
 
-<!--
-**Laura-ElenaOlaru/Laura-ElenaOlaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:zap: Here are my projects:
 
-Here are some ideas to get you started:
+•	:mortar_board: Bachelor's Thesis in Computer Science: https://github.com/Laura-ElenaOlaru/Licenta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	:bulb: UiPath projects: https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator, https://github.com/Laura-ElenaOlaru/RPA-Projects 
+
+•	:coffee: Java projects: https://github.com/Laura-ElenaOlaru/Java-Projects
+
+•	:snake: Python projects: https://github.com/Laura-ElenaOlaru/Python-Projects
+
+• :floppy_disk:	C – C++ projects: https://github.com/Laura-ElenaOlaru/C-Cpp-Projects
+
+•	:cd: C# projects: https://github.com/Laura-ElenaOlaru/C-Sharp-Projects
+
+•	:books: DB projects: https://github.com/Laura-ElenaOlaru/DB-Projects
+
+•	:iphone: Mobile apps: https://github.com/Laura-ElenaOlaru/Mobile-Apps
+
+• :computer:	Web apps: https://github.com/Laura-ElenaOlaru/Web-Projects
+
+•	:mailbox_with_mail: Computer Networks projects: https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects
+
+•	:crystal_ball: AI projects: https://github.com/Laura-ElenaOlaru/AI-Projects
