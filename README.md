@@ -26,6 +26,8 @@ Hi! :wave:
 
 •	:mailbox_with_mail: <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
 
+• :u6307: <a href="https://github.com/Laura-ElenaOlaru/LanguageCompiler"> Language compiler</a>
+
 • :bar_chart:  <a href=https://github.com/Laura-ElenaOlaru/ResearchProject> Research project </a>
 
 •	:crystal_ball: <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
