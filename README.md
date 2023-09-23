@@ -16,9 +16,9 @@ Hi! :wave:
 
 •	:snake: <a href="https://github.com/Laura-ElenaOlaru/Python-Projects"> Python projects </a>
 
-• :floppy_disk:	<a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects"> C – C++ projects </a>
-
 •	:cd: <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# projects </a>
+
+• :floppy_disk:	<a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects"> C – C++ projects </a>
 
 •	:bulb: <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator </a> 
 
