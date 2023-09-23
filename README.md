@@ -4,9 +4,13 @@ Hi! :wave:
 
 •	:mortar_board: <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science </a>
 
-•	:bulb: <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> UiPath YoutubePlaylistCreator </a> 
+• :computer: <a href="https://github.com/Laura-ElenaOlaru/Web-Projects">	Web apps </a>
 
-• :rocket: <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects </a> 
+•	:iphone: <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
+
+• :dart: <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
+
+•	:books: <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects </a>
 
 •	:coffee: <a href="https://github.com/Laura-ElenaOlaru/Java-Projects"> Java projects </a>
 
@@ -16,13 +20,9 @@ Hi! :wave:
 
 •	:cd: <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# projects </a>
 
-•	:books: <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects </a>
+•	:bulb: <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator </a> 
 
-•	:iphone: <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
-
-• :computer: <a href="https://github.com/Laura-ElenaOlaru/Web-Projects">	Web apps </a>
-
-• :dart: <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
+• :rocket: <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects </a> 
 
 •	:mailbox_with_mail: <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
 
