@@ -31,3 +31,5 @@ Hi! :wave:
 • :bar_chart:  <a href=https://github.com/Laura-ElenaOlaru/ResearchProject> Research project </a>
 
 •	:crystal_ball: <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
+
+•	:art: <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress</a>
