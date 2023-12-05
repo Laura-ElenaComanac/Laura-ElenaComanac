@@ -2,6 +2,8 @@ Hi! :wave:
 
 ⚡ Here are my projects:
 
+Check out my website: https://laura-elenacomanac.github.io/
+
 •	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science </a>
 
 • 💻 <a href="https://github.com/Laura-ElenaOlaru/Web-Projects">	Web apps </a>
