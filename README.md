@@ -2,11 +2,11 @@ Hi! :wave:
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
 
-•	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science </a>
+•	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science (Flutter, Java Spring Boot) </a>
 
 • 💻 <a href="https://github.com/Laura-ElenaOlaru/Web-Projects"> Web (HTML, JavaScript, CSS) apps </a>
 
-•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects </a>
+•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS) </a>
 
 •	💿 <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# (.NET) projects </a>
 
@@ -20,7 +20,7 @@ Check out my Angular website: https://laura-elenacomanac.github.io/
 
 • 💾	<a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects"> C – C++ projects </a>
 
-•	💡 <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator </a> 
+•	💡 <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator (RPA) </a> 
 
 • 🚀 <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects </a> 
 
