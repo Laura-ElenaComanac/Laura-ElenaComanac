@@ -22,7 +22,7 @@ Check out my Angular website: https://laura-elenacomanac.github.io/
 
 •	💡 <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator (RPA) </a> 
 
-• 🚀 <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects </a> 
+• 🚀 <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects (UiPath) </a> 
 
 • 🎯 <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
 
