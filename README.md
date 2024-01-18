@@ -10,7 +10,7 @@ Check out my Angular website: https://laura-elenacomanac.github.io/
 
 •	💿 <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# (.NET) projects </a>
 
-•	📚 <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects </a>
+•	📚 <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects (SQL) </a>
 
 •	📱 <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
 
