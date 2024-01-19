@@ -4,7 +4,7 @@ I am a Software Engineer in Web Development and Software Engineering Master's st
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
 
-<a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
+:octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
 My Projects:
 
