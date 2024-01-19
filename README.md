@@ -1,9 +1,12 @@
 Hi! :wave:
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
-My open source software contribution: https://marketplace.uipath.com/listings/image-color-matching
 
-•	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta "> Bachelor's Thesis in Computer Science (Flutter, Java Spring Boot) </a>
+<a href="https://marketplace.uipath.com/listings/image-color-matching"> My open source software contribution </a>
+
+My Projects:
+
+•	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta"> Bachelor's Thesis in Computer Science (Flutter, Java Spring Boot) </a>
 
 • 💻 <a href="https://github.com/Laura-ElenaOlaru/Web-Projects"> Web (HTML, JavaScript, CSS) apps </a>
 
