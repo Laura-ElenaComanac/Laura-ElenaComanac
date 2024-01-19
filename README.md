@@ -2,7 +2,7 @@ Hi! :wave:
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
 
-<a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My open source software contribution </a>
+<a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
 My Projects:
 
