@@ -1,6 +1,6 @@
 Hi! :wave:
 
-I am a Software Engineer in Web Development and a Software Engineering Master's student in UI performance measurement and optimization.
+I am a Software Engineer in Web Development and Software Engineering Master's student in UI performance measurement and optimization.
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
 
