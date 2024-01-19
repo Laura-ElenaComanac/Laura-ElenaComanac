@@ -1,8 +1,10 @@
 Hi! :wave:
 
-I am a Software Engineer in Web Development and Software Engineering Master's student in UI performance measurement and optimization.
+I am a Software Engineer in Web Development
 
-Check out my website (implemented in Angular): https://laura-elenacomanac.github.io/
+Software Engineering Master's student in UI performance measurement and optimization.
+
+Check out my website (Angular): https://laura-elenacomanac.github.io/
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
