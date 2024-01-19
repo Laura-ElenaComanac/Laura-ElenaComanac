@@ -12,15 +12,13 @@ My Projects:
 
 • 💻 <a href="https://github.com/Laura-ElenaOlaru/Web-Projects"> Web (HTML, JavaScript, CSS) apps </a>
 
-•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS) </a>
+•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS, Webpack) </a>
 
 •	💿 <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# (.NET) projects </a>
 
 •	📚 <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects (SQL) </a>
 
 •	📱 <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
-
-•	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
 •	☕ <a href="https://github.com/Laura-ElenaOlaru/Java-Projects"> Java (Spring Boot) projects </a>
 
@@ -33,6 +31,8 @@ My Projects:
 • 🚀 <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects (UiPath) </a> 
 
 • 🎯 <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
+
+•	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
 •	📬 <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
 
