@@ -1,6 +1,6 @@
 Hi! :wave:
 
-I am a Software Engineer currently pursuig Master's in Software Engineering where I study UI performance measurement and optimization.
+I am a Software Engineer in Web Development and a Software Engineering Master's student in UI performance measurement and optimization.
 
 Check out my Angular website: https://laura-elenacomanac.github.io/
 
@@ -19,6 +19,8 @@ My Projects:
 •	📚 <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects (SQL) </a>
 
 •	📱 <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
+
+•	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
 •	☕ <a href="https://github.com/Laura-ElenaOlaru/Java-Projects"> Java (Spring Boot) projects </a>
 
@@ -39,5 +41,3 @@ My Projects:
 • 📊 <a href=https://github.com/Laura-ElenaOlaru/ResearchProject> Research project </a>
 
 •	🔮 <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
-
-•	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
