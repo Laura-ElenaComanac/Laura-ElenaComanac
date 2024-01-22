@@ -36,10 +36,4 @@ My Projects:
 
 •	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
-•	📬 <a href="https://github.com/Laura-ElenaOlaru/Computer-Networks-Projects"> Computer Networks projects</a>
-
 • 🈶 <a href="https://github.com/Laura-ElenaOlaru/LanguageCompiler"> Language compiler </a>
-
-• 📊 <a href=https://github.com/Laura-ElenaOlaru/ResearchProject> Research project </a>
-
-•	🔮 <a href="https://github.com/Laura-ElenaOlaru/AI-Projects"> AI projects</a>
