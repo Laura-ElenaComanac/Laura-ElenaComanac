@@ -2,11 +2,10 @@
 
 Check out my website (Angular): https://laura-elenacomanac.github.io/
 
-I am a Software Engineer in Web Development and Software Engineering Master's student in UI performance optimization.
+I am a Software Engineer in Web Development and Software Engineering Master's student.
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
-## My Projects:
 
 <img
       aling="left"
@@ -15,13 +14,6 @@ I am a Software Engineer in Web Development and Software Engineering Master's st
       style="padding-right:30px"
       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
     />
-<img
-      aling="left"
-      alt="lang"
-      width="40px"
-      style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-     />
 <img
       aling="left"
       alt="lang"
@@ -36,13 +28,6 @@ I am a Software Engineer in Web Development and Software Engineering Master's st
       style="padding-right:30px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
       />
-<img
-      aling="left"
-      alt="lang"
-      width="40px"
-      style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-     />
 <img
       aling="left"
       alt="lang"
@@ -65,6 +50,9 @@ I am a Software Engineer in Web Development and Software Engineering Master's st
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
     />
 <br/>
+
+## My Projects:
+
 
 •	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta"> Bachelor's Thesis in Computer Science (Flutter, Java Spring Boot) </a>
 
