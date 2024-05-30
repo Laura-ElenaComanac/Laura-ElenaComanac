@@ -2,7 +2,7 @@
 
 Check out my website (Angular): https://laura-elenacomanac.github.io/
 
-Software Engineer in Web Development and Software Engineering Master's student, UX/UI Passionate.
+UX/UI Designer, Software Engineer in Web Development and Software Engineering Master's student.
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
