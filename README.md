@@ -1,6 +1,6 @@
 ## Hi! :wave:
 
-Check out my website (Angular): https://laura-elenacomanac.github.io/
+Check out my website made using UX UI Design and Angular: https://laura-elenacomanac.github.io/
 
 UX/UI Designer, Software Engineer in Web Development and Software Engineering Master's student.
 
