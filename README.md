@@ -1,6 +1,6 @@
 ## Hi! :wave: I'm Laura
 
-Check out my website made using UX/UI Design: https://laura-elenacomanac.github.io/
+Here is my website: https://laura-elenacomanac.github.io/
 
 I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction classes with a Master's in Software Engineering.
 
