@@ -1,8 +1,8 @@
-## Hi! :wave:
+## Hi! :wave: I'm Laura
 
-Check out my website made using UX UI Design and Angular: https://laura-elenacomanac.github.io/
+Check out my website made using UX/UI Design: https://laura-elenacomanac.github.io/
 
-UX/UI Designer, Software Engineer in Web Development and Software Engineering Master's student.
+I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction classes with a Master's in Software Engineering.
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
