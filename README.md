@@ -6,28 +6,34 @@ I am a UX/UI Designer with a frontend background. Graduated from Human-Computer 
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
-
 <img
       aling="left"
       alt="lang"
-      width="50px"
+      width="40px"
       style="padding-right:30px"
-      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+      src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"
     />
 <img
       aling="left"
       alt="lang"
       width="40px"
       style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-     />
-<img   
+      src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+/>
+<img
       aling="left"
       alt="lang"
       width="40px"
       style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-      />
+      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+    />
+<img
+      aling="left"
+      alt="lang"
+      width="35px"
+      style="padding-right:30px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+     />
 <img
       aling="left"
       alt="lang"
@@ -35,20 +41,14 @@ I am a UX/UI Designer with a frontend background. Graduated from Human-Computer 
       style="padding-right:30px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
     />
-<img
+<img   
       aling="left"
       alt="lang"
       width="40px"
       style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-     />
-<img
-      aling="left"
-      alt="lang"
-      width="40px"
-      style="padding-right:30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+      />
+
 <br/>
 
 ## My Projects:
