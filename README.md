@@ -4,7 +4,7 @@ Here is my website: https://laura-elenacomanac.github.io/
 
 I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction and Adaptive Web Design classes with a Master's in Software Engineering and a Bachelor's in Computer Science.
 
-:octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
+:octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank"> My Open Source Software contribution </a>
 
 <img
       aling="left"
