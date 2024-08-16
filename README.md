@@ -2,7 +2,7 @@
 
 Here is my website: https://laura-elenacomanac.github.io/
 
-I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction classes with a Master's in Software Engineering.
+I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction and Adaptive Web Design classes with a Master's in Software Engineering and a Bachelor's in Computer Science.
 
 :octocat:  <a href="https://marketplace.uipath.com/listings/image-color-matching" target="_blank" rel="noopener noreferrer"> My Open Source Software contribution </a>
 
@@ -53,31 +53,14 @@ I am a UX/UI Designer with a frontend background. Graduated from Human-Computer 
 
 ## My Projects:
 
+•	🎓 <a href="https://github.com/Laura-ElenaComanac/Dissertation"> Master's Thesis in Software Engineering (Adaptive Web Design) </a>
 
-•	🎓 <a href="https://github.com/Laura-ElenaOlaru/Licenta"> Bachelor's Thesis in Computer Science (Flutter, Java Spring Boot) </a>
+•	🎓 <a href="https://github.com/Laura-ElenaComanac/Licenta"> Bachelor's Thesis in Computer Science (Human-Computer Interaction) </a>
 
-• 💻 <a href="https://github.com/Laura-ElenaOlaru/Web-Projects"> Web (HTML, JavaScript, CSS) apps </a>
+•	📱 <a href="https://github.com/Laura-ElenaComanac/Mobile-Apps"> Mobile apps (Figma, Flutter) </a>
 
-•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS, Webpack) </a>
-
-•	💿 <a href="https://github.com/Laura-ElenaOlaru/C-Sharp-Projects"> C# (.NET) projects </a>
-
-•	📚 <a href="https://github.com/Laura-ElenaOlaru/DB-Projects"> DB projects (SQL) </a>
-
-•	📱 <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps"> Mobile apps </a>
-
-•	☕ <a href="https://github.com/Laura-ElenaOlaru/Java-Projects"> Java (Spring Boot) projects </a>
-
-•	🐍 <a href="https://github.com/Laura-ElenaOlaru/Python-Projects"> Python projects </a>
-
-• 💾	<a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects"> C – C++ projects </a>
-
-•	💡 <a href="https://github.com/Laura-ElenaOlaru/YoutubePlaylistCreator"> YoutubePlaylistCreator (RPA) </a> 
-
-• 🚀 <a href="https://github.com/Laura-ElenaOlaru/RPA-Projects"> RPA projects (UiPath) </a> 
-
-• 🎯 <a href="https://github.com/Laura-ElenaOlaru/Supernova/tree/main"> Testing methods </a>
+•     💻 <a href="https://github.com/Laura-ElenaComanac/Web-Projects"> Web apps (HTML, CSS, JavaScript) </a>
 
 •	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
-• 🈶 <a href="https://github.com/Laura-ElenaOlaru/LanguageCompiler"> Language compiler </a>
+•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS, Webpack) </a>
