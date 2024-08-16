@@ -53,14 +53,14 @@ I am a UX/UI Designer with a frontend background. Graduated from Human-Computer 
 
 ## My Projects:
 
-•	🎓 <a href="https://github.com/Laura-ElenaComanac/Dissertation"> Master's Thesis in Software Engineering (Adaptive Web Design) </a>
+•	🎓  <a href="https://github.com/Laura-ElenaComanac/Dissertation"> Master's Thesis in Software Engineering (Adaptive Web Design) </a>
 
-•	🎓 <a href="https://github.com/Laura-ElenaComanac/Licenta"> Bachelor's Thesis in Computer Science (Human-Computer Interaction) </a>
+•	🎓  <a href="https://github.com/Laura-ElenaComanac/Licenta"> Bachelor's Thesis in Computer Science (Human-Computer Interaction) </a>
 
-•	📱 <a href="https://github.com/Laura-ElenaComanac/Mobile-Apps"> Mobile apps (Figma, Flutter) </a>
+•	📱  <a href="https://github.com/Laura-ElenaComanac/Mobile-Apps"> Mobile apps (Figma, Flutter) </a>
 
-•     💻 <a href="https://github.com/Laura-ElenaComanac/Web-Projects"> Web apps (HTML, CSS, JavaScript) </a>
+•     💻  <a href="https://github.com/Laura-ElenaComanac/Web-Projects"> Web apps (HTML, CSS, JavaScript) </a>
 
-•	🎨 <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
+•	🎨  <a href="https://github.com/Laura-ElenaComanac/WordPress"> WordPress projects</a>
 
-•	🐳 <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS, Webpack) </a>
+•	🐳  <a href="https://github.com/Laura-ElenaComanac/Docker/tree/main"> Docker projects (React, NestJS, Webpack) </a>
