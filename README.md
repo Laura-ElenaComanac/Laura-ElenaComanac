@@ -23,13 +23,6 @@ I am a UX/UI Designer with a frontend background. Graduated from Human-Computer 
 <img
       aling="left"
       alt="lang"
-      width="40px"
-      style="padding-right:30px"
-      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
-    />
-<img
-      aling="left"
-      alt="lang"
       width="35px"
       style="padding-right:30px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
