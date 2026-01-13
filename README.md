@@ -1,6 +1,6 @@
 ## Hi! :wave: I'm Laura
 
-Here is my website that I designed and developed: https://laura-elenacomanac.github.io/
+Here is my website that I designed and developed: https://laura-elenacomanac.github.io/#/portofolio
 
 I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction and Adaptive Web Design classes with a Master's in Software Engineering and a Bachelor's in Computer Science.
 
