@@ -1,6 +1,6 @@
 ## Hi! :wave: I'm Laura
 
-Here is my portfolio: laura-comanac.com
+Here is my portfolio:  <a href="https://laura-comanac.com" target="_blank">laura-comanac.com
 
 I am a UX/UI Designer with a frontend background. Graduated from Human-Computer Interaction and Adaptive Web Design classes with a Master's in Software Engineering and a Bachelor's in Computer Science.
 
